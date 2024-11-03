@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfd9c41b.css",
+    "main.js": "/static/js/main.e2c5c253.js",
+    "static/media/arrow.jpg": "/static/media/arrow.f8303d2d74e9e23a9759.jpg",
+    "static/media/company.jpg": "/static/media/company.772d8a5006b51d80beee.jpg",
+    "static/media/employees.jpg": "/static/media/employees.7dd0852a34c47e09cf01.jpg",
+    "static/media/welcomeImage.jpg": "/static/media/welcomeImage.e4081037de57955074d5.jpg",
+    "static/media/profil.png": "/static/media/profil.280650b397b6b9e69e8f.png",
+    "static/media/load.gif": "/static/media/load.392a04dce6f086d9142a.gif",
+    "static/media/events.png": "/static/media/events.81b83f19ca0647b460c5.png",
+    "static/media/searchIcon.png": "/static/media/searchIcon.3a608aca6f4d314714c4.png",
+    "static/media/settings.png": "/static/media/settings.f6d6e350dbc6a0aa0432.png",
+    "static/media/messaging.png": "/static/media/messaging.86fbc5a312e57a6c17d1.png",
+    "static/media/urgent.png": "/static/media/urgent.738bb0cd3af1ff84dc5d.png",
+    "static/media/notification.png": "/static/media/notification.b6bb00cec8a6fa502675.png",
+    "static/media/tasks.png": "/static/media/tasks.f784611ddc14313243da.png",
+    "static/media/sign.png": "/static/media/sign.dba799403c14755c214c.png",
+    "static/media/rules.png": "/static/media/rules.9c9d781bcd08b1a83bf4.png",
+    "index.html": "/index.html",
+    "main.dfd9c41b.css.map": "/static/css/main.dfd9c41b.css.map",
+    "main.e2c5c253.js.map": "/static/js/main.e2c5c253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd9c41b.css",
+    "static/js/main.e2c5c253.js"
+  ]
+}
